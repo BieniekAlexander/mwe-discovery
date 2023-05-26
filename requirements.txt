@@ -1,0 +1,12 @@
+# remote dependencies
+enforce_typing==1.0.0.post1
+flair==0.12.2
+ndjson==0.3.1
+nltk==3.8.1
+ipykernel==6.19.2
+pyconll==3.1.0
+pytest==7.3.1
+pytest-cov==4.0.0
+
+# local dependencies
+./mwe_discovery
